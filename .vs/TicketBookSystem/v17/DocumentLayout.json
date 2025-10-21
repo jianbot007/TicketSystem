@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning Code\\Advanced_dot net\\Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\service\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\service\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\contracts\\interfaces\\ibusscheduelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\ibusscheduelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\contracts\\dtos\\seatplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\seatplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\contracts\\dtos\\bookseatresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\bookseatresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\contracts\\dtos\\availablebusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\availablebusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\contracts\\dtos\\bookseatinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\bookseatinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\contracts\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\learning code\\advanced_dot net\\domain\\domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\learning code\\advanced_dot net\\domain\\domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\contracts\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\learning code\\advanced_dot net\\domain\\application\\contracts\\interfaces\\iseatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\iseatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\learning code\\advanced_dot net\\domain\\domain\\entities\\busscheduel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\busscheduel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\learning code\\advanced_dot net\\domain\\domain\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\learning code\\advanced_dot net\\domain\\domain\\entities\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\learning code\\advanced_dot net\\domain\\domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\learning code\\advanced_dot net\\domain\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\learning code\\advanced_dot net\\domain\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\learning code\\advanced_dot net\\domain\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\learning code\\advanced_dot net\\domain\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookSeatInputDto.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
+              "RelativeToolTip": "Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:58:18.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvailableBusDto.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\DTOs\\AvailableBusDto.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\AvailableBusDto.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\DTOs\\AvailableBusDto.cs",
+              "RelativeToolTip": "Application\\Contracts\\DTOs\\AvailableBusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:56:14.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookSeatResultDto.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\DTOs\\BookSeatResultDto.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\BookSeatResultDto.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\DTOs\\BookSeatResultDto.cs",
+              "RelativeToolTip": "Application\\Contracts\\DTOs\\BookSeatResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:59:14.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeatPlanDto.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\DTOs\\SeatPlanDto.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\SeatPlanDto.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\DTOs\\SeatPlanDto.cs",
+              "RelativeToolTip": "Application\\Contracts\\DTOs\\SeatPlanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:57:06.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBusScheduelRepository.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:01:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Service\\SearchService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\SearchService.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Service\\SearchService.cs",
+              "RelativeToolTip": "Application\\Service\\SearchService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:05:47.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Service\\BookingService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\BookingService.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Service\\BookingService.cs",
+              "RelativeToolTip": "Application\\Service\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:06:35.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPassengerRepository.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:12:12.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\Interfaces\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\ITicketRepository.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\Interfaces\\ITicketRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:03:56.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISeatRepository.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\Interfaces\\ISeatRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\ISeatRepository.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Contracts\\Interfaces\\ISeatRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\ISeatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:02:57.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Ticket.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Ticket.cs",
+              "RelativeToolTip": "Domain\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:48:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Seat.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Seat.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Seat.cs",
+              "RelativeToolTip": "Domain\\Entities\\Seat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:46:13.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Passenger.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Passenger.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Passenger.cs",
+              "RelativeToolTip": "Domain\\Entities\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:48:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T22:43:05.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Route.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Route.cs",
+              "RelativeToolTip": "Domain\\Entities\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:46:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Bus.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Bus.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\Bus.cs",
+              "RelativeToolTip": "Domain\\Entities\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:46:01.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusScheduel.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\BusScheduel.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BusScheduel.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Domain\\Entities\\BusScheduel.cs",
+              "RelativeToolTip": "Domain\\Entities\\BusScheduel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:47:14.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-21T22:43:09.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApi",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T22:28:04.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T22:26:27.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1074926236:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Learning Code\\Advanced_dot net\\Domain\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Learning Code\\Advanced_dot net\\Domain\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:26:22.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\Learning Code\Advanced_dot net\Domain\Application\bin\Debug\net9.0\Application.deps.json
+D:\Learning Code\Advanced_dot net\Domain\Application\bin\Debug\net9.0\Application.dll
+D:\Learning Code\Advanced_dot net\Domain\Application\bin\Debug\net9.0\Application.pdb
+D:\Learning Code\Advanced_dot net\Domain\Application\bin\Debug\net9.0\Domain.dll
+D:\Learning Code\Advanced_dot net\Domain\Application\bin\Debug\net9.0\Domain.pdb
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Application.sourcelink.json
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Application.dll
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\refint\Application.dll
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\Application.pdb
+D:\Learning Code\Advanced_dot net\Domain\Application\obj\Debug\net9.0\ref\Application.dll
