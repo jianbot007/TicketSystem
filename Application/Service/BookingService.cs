@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using Application.Contracts;
+﻿using Application.Contracts;
 using Domain.Entities;
 using System;
 using System.Linq;
@@ -53,7 +47,7 @@ namespace Application.Services
             if (schedule == null)
                 return new BookSeatResultDto { Success = false, Message = "Bus schedule not found" };
 
-            // Check seat availability
+          
             foreach (var seatNum in input.SeatNumbers)
             {
                 var seat = schedule.Seats.FirstOrDefault(s => s.SeatNumber == seatNum);

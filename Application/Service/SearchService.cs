@@ -16,10 +16,11 @@ namespace Application.Services
         {
             _busScheduleRepository = busScheduleRepository;
         }
-
         public async Task<List<AvailableBusDto>> SearchAvailableBusesAsync(string from, string to, DateTime journeyDate)
         {
-            var schedules = await _busScheduleRepository.GetSchedulesAsync(from, to, journeyDate);
+            var journeyDateUtc = journeyDate.ToUniversalTime();
+            
+            var schedules = await _busScheduleRepository.GetSchedulesAsync(from, to, journeyDateUtc);
 
             return schedules.Select(s => new AvailableBusDto
             {
