@@ -1,15 +1,17 @@
+using Application.Contracts.Interfaces;
 using Application.Services;
 using Infrastructure;
 using Infrastructure.Data;
+using Infrastructure.Persistence;
 using Infrastructure.Seed;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<SearchService>(); 
 builder.Services.AddScoped<BookingService>();
+builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
 builder.Services.AddInfrastructureServices(builder.Configuration);
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

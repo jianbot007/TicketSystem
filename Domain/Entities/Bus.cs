@@ -16,7 +16,6 @@ namespace Domain.Entities
         public string CompanyName { get; set; }
         public int TotalSeats { get; set; }
 
-        // EF: One bus can have many schedules
         public List<BusSchedule> Schedules { get; set; } = new List<BusSchedule>();
     }
 }

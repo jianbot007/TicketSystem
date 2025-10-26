@@ -3,88 +3,72 @@
   "WorkspaceRootPath": "D:\\TicketSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\dtos\\bookseatinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\bookseatinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\seeds\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeds\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\repository\\seatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\seatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\repository\\busscheduelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\busscheduelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\repository\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F2F840A-ACE4-4FAD-9A31-B48451AB9844}|Test\\Test\\Application.Test.csproj|d:\\ticketsystem\\test\\test\\bookingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F840A-ACE4-4FAD-9A31-B48451AB9844}|Test\\Test\\Application.Test.csproj|solutionrelative:test\\test\\bookingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\interfaces\\ibusscheduelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\ibusscheduelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\service\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\service\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\repository\\busscheduelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\busscheduelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\dtos\\bookseatresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\bookseatresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\dtos\\seatplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\seatplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\dtos\\availablebusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\availablebusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\ticketsystem\\domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\ticketsystem\\domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\ticketsystem\\domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\ticketsystem\\domain\\entities\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,44 +83,72 @@
       "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\repository\\seatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\seatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\ticketsystem\\domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\migrations\\20251022163035_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20251022163035_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\ticketsystem\\domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|d:\\ticketsystem\\domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72FA90AA-6B69-401B-8025-7006A64E2ABA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\interfaces\\iseatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\interfaces\\iseatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\dtos\\bookseatinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\bookseatinputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\seeds\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeds\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|d:\\ticketsystem\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3862226D-E84C-44CB-AF89-20DFD34E1E9F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|d:\\ticketsystem\\infrastructure\\repository\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99C9488-CD75-4869-8AB8-61477884599D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|d:\\ticketsystem\\application\\contracts\\dtos\\seatplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62F2384-9FB7-4667-8E6B-DC2908B65663}|Application\\Application.csproj|solutionrelative:application\\contracts\\dtos\\seatplandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,51 +158,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1074926236:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:00:41.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Data\\AppDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContextFactory.cs",
-              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Data\\AppDbContextFactory.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\AppDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T16:28:52.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "D:\\TicketSystem\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T16:30:51.561Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BookingServiceTest.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Test\\Test\\BookingServiceTest.cs",
+              "RelativeDocumentMoniker": "Test\\Test\\BookingServiceTest.cs",
+              "ToolTip": "D:\\TicketSystem\\Test\\Test\\BookingServiceTest.cs",
+              "RelativeToolTip": "Test\\Test\\BookingServiceTest.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAArwFUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:21:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBusScheduelRepository.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
+              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:01:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPassengerRepository.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
+              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:12:12.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\TicketSystem\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T22:43:05.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Service\\SearchService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\SearchService.cs",
+              "ToolTip": "D:\\TicketSystem\\Application\\Service\\SearchService.cs",
+              "RelativeToolTip": "Application\\Service\\SearchService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:05:47.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Service\\BookingService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\BookingService.cs",
+              "ToolTip": "D:\\TicketSystem\\Application\\Service\\BookingService.cs",
+              "RelativeToolTip": "Application\\Service\\BookingService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:06:35.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\SearchController.cs",
+              "ToolTip": "D:\\TicketSystem\\WebApi\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:14:52.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\TicketSystem\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T16:14:28.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:54:01.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BookingController.cs",
               "DocumentMoniker": "D:\\TicketSystem\\WebApi\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\BookingController.cs",
@@ -203,31 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InfrastructureServiceRegistration.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\InfrastructureServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\InfrastructureServiceRegistration.cs",
-              "ToolTip": "D:\\TicketSystem\\Infrastructure\\InfrastructureServiceRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\InfrastructureServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:22:51.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Seeds\\SeedData.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Seeds\\SeedData.cs",
-              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Seeds\\SeedData.cs",
-              "RelativeToolTip": "Infrastructure\\Seeds\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:36:44.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TicketRepository.cs",
               "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Repository\\TicketRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\TicketRepository.cs",
@@ -235,71 +308,12 @@
               "RelativeToolTip": "Infrastructure\\Repository\\TicketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:18:54.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SeatRepository.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Repository\\SeatRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SeatRepository.cs",
-              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Repository\\SeatRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\SeatRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:18:02.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookSeatInputDto.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
-              "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
-              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
-              "RelativeToolTip": "Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:58:18.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "D:\\TicketSystem\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T18:26:16.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\TicketSystem\\WebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-22T18:27:06.049Z"
+              "WhenOpened": "2025-10-22T15:18:54.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T16:31:48.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "BusScheduelRepository.cs",
               "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Repository\\BusScheduelRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\BusScheduelRepository.cs",
@@ -307,59 +321,12 @@
               "RelativeToolTip": "Infrastructure\\Repository\\BusScheduelRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:08:06.565Z"
+              "WhenOpened": "2025-10-22T15:08:06.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Application\\Service\\BookingService.cs",
-              "RelativeDocumentMoniker": "Application\\Service\\BookingService.cs",
-              "ToolTip": "D:\\TicketSystem\\Application\\Service\\BookingService.cs",
-              "RelativeToolTip": "Application\\Service\\BookingService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T23:06:35.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PassengerRepository.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Repository\\PassengerRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PassengerRepository.cs",
-              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Repository\\PassengerRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\PassengerRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:19:38.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IBusScheduelRepository.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
-              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
-              "RelativeToolTip": "Application\\Contracts\\Interfaces\\IBusScheduelRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T23:01:38.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SearchService.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Application\\Service\\SearchService.cs",
-              "RelativeDocumentMoniker": "Application\\Service\\SearchService.cs",
-              "ToolTip": "D:\\TicketSystem\\Application\\Service\\SearchService.cs",
-              "RelativeToolTip": "Application\\Service\\SearchService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T23:05:47.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "BookSeatResultDto.cs",
               "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\BookSeatResultDto.cs",
               "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\BookSeatResultDto.cs",
@@ -367,35 +334,12 @@
               "RelativeToolTip": "Application\\Contracts\\DTOs\\BookSeatResultDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:59:14.746Z"
+              "WhenOpened": "2025-10-21T22:59:14.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ITicketRepository.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\ITicketRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\ITicketRepository.cs",
-              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\ITicketRepository.cs",
-              "RelativeToolTip": "Application\\Contracts\\Interfaces\\ITicketRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T23:03:56.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SeatPlanDto.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\SeatPlanDto.cs",
-              "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\SeatPlanDto.cs",
-              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\SeatPlanDto.cs",
-              "RelativeToolTip": "Application\\Contracts\\DTOs\\SeatPlanDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:57:06.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
               "Title": "AvailableBusDto.cs",
               "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\AvailableBusDto.cs",
               "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\AvailableBusDto.cs",
@@ -403,107 +347,25 @@
               "RelativeToolTip": "Application\\Contracts\\DTOs\\AvailableBusDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:56:14.676Z"
+              "WhenOpened": "2025-10-21T22:56:14.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Passenger.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\Passenger.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Passenger.cs",
-              "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\Passenger.cs",
-              "RelativeToolTip": "Domain\\Entities\\Passenger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:48:20.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BusScheduel.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\BusScheduel.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\BusScheduel.cs",
-              "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\BusScheduel.cs",
-              "RelativeToolTip": "Domain\\Entities\\BusScheduel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:47:14.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Bus.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\Bus.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Bus.cs",
-              "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\Bus.cs",
-              "RelativeToolTip": "Domain\\Entities\\Bus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:46:01.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SearchController.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\Controllers\\SearchController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\SearchController.cs",
-              "ToolTip": "D:\\TicketSystem\\WebApi\\Controllers\\SearchController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\SearchController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T18:14:52.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "WebApi.csproj",
-              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\WebApi.csproj",
-              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "D:\\TicketSystem\\WebApi\\WebApi.csproj",
-              "RelativeToolTip": "WebApi\\WebApi.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T16:14:28.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T18:36:11.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Route.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\Route.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Route.cs",
-              "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\Route.cs",
-              "RelativeToolTip": "Domain\\Entities\\Route.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:46:38.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 14,
               "Title": "Ticket.cs",
               "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\Ticket.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Ticket.cs",
               "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\Ticket.cs",
               "RelativeToolTip": "Domain\\Entities\\Ticket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:48:29.57Z"
+              "WhenOpened": "2025-10-21T22:48:29.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 15,
               "Title": "Seat.cs",
               "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\Seat.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Seat.cs",
@@ -511,11 +373,129 @@
               "RelativeToolTip": "Domain\\Entities\\Seat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:46:13.885Z"
+              "WhenOpened": "2025-10-21T22:46:13.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 16,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\Route.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Route.cs",
+              "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\Route.cs",
+              "RelativeToolTip": "Domain\\Entities\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:46:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\Passenger.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Passenger.cs",
+              "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\Passenger.cs",
+              "RelativeToolTip": "Domain\\Entities\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:48:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BusScheduel.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\BusScheduel.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BusScheduel.cs",
+              "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\BusScheduel.cs",
+              "RelativeToolTip": "Domain\\Entities\\BusScheduel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:47:14.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Domain\\Entities\\Bus.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Bus.cs",
+              "ToolTip": "D:\\TicketSystem\\Domain\\Entities\\Bus.cs",
+              "RelativeToolTip": "Domain\\Entities\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:46:01.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\TicketSystem\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:30:51.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeatRepository.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Repository\\SeatRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SeatRepository.cs",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Repository\\SeatRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\SeatRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:18:02.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:52:32.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:00:41.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:28:52.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "20251022163035_InitialCreate.cs",
               "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Migrations\\20251022163035_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251022163035_InitialCreate.cs",
@@ -523,43 +503,151 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20251022163035_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T16:30:35.853Z"
+              "WhenOpened": "2025-10-22T16:30:35.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IPassengerRepository.cs",
-              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
-              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
-              "RelativeToolTip": "Application\\Contracts\\Interfaces\\IPassengerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\ITicketRepository.cs",
+              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\ITicketRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Interfaces\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T23:12:12.271Z"
+              "WhenOpened": "2025-10-21T23:03:56.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 27,
               "Title": "ISeatRepository.cs",
               "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\ISeatRepository.cs",
               "RelativeDocumentMoniker": "Application\\Contracts\\Interfaces\\ISeatRepository.cs",
               "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\Interfaces\\ISeatRepository.cs",
               "RelativeToolTip": "Application\\Contracts\\Interfaces\\ISeatRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T23:02:57.496Z"
+              "WhenOpened": "2025-10-21T23:02:57.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:22:51.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\TicketSystem\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T18:26:16.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T18:36:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Seeds\\SeedData.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Seeds\\SeedData.cs",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Seeds\\SeedData.cs",
+              "RelativeToolTip": "Infrastructure\\Seeds\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:36:44.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookSeatInputDto.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
+              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
+              "RelativeToolTip": "Application\\Contracts\\DTOs\\BookSeatInputDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:58:18.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "D:\\TicketSystem\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "D:\\TicketSystem\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\TicketSystem\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\TicketSystem\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T18:27:06.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-21T22:43:05.981Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:31:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PassengerRepository.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Infrastructure\\Repository\\PassengerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PassengerRepository.cs",
+              "ToolTip": "D:\\TicketSystem\\Infrastructure\\Repository\\PassengerRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\PassengerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:19:38.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SeatPlanDto.cs",
+              "DocumentMoniker": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\SeatPlanDto.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\DTOs\\SeatPlanDto.cs",
+              "ToolTip": "D:\\TicketSystem\\Application\\Contracts\\DTOs\\SeatPlanDto.cs",
+              "RelativeToolTip": "Application\\Contracts\\DTOs\\SeatPlanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:57:06.13Z",
+              "EditorCaption": ""
             }
           ]
         }

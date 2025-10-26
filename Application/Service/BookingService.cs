@@ -14,17 +14,20 @@ namespace Application.Services
         private readonly ISeatRepository _seatRepo;
         private readonly ITicketRepository _ticketRepo;
         private readonly IPassengerRepository _passengerRepo;
+        private readonly IUnitOfWork _unitOfWork;
 
         public BookingService(
             IBusScheduleRepository busScheduleRepo,
             ISeatRepository seatRepo,
             ITicketRepository ticketRepo,
-            IPassengerRepository passengerRepo)
+            IPassengerRepository passengerRepo,
+            IUnitOfWork unitOfWork )
         {
             _busScheduleRepo = busScheduleRepo;
             _seatRepo = seatRepo;
             _ticketRepo = ticketRepo;
             _passengerRepo = passengerRepo;
+            _unitOfWork = unitOfWork;
         }
 
         public async Task<SeatPlanDto> GetSeatPlanAsync(Guid busScheduleId)
@@ -43,54 +46,68 @@ namespace Application.Services
 
         public async Task<BookSeatResultDto> BookSeatAsync(BookSeatInputDto input)
         {
-            var schedule = await _busScheduleRepo.GetScheduleByIdAsync(input.BusScheduleId);
-            if (schedule == null)
-                return new BookSeatResultDto { Success = false, Message = "Bus schedule not found" };
-
-          
-            foreach (var seatNum in input.SeatNumbers)
+            try
             {
-                var seat = schedule.Seats.FirstOrDefault(s => s.SeatNumber == seatNum);
-                if (seat == null || seat.Status != "Available")
-                    return new BookSeatResultDto
-                    {
-                        Success = false,
-                        Message = $"Seat {seatNum} is not available"
-                    };
+                await _unitOfWork.BeginTransactionAsync();
+                var schedule = await _busScheduleRepo.GetScheduleByIdAsync(input.BusScheduleId);
+                if (schedule == null)
+                    return new BookSeatResultDto { Success = false, Message = "Bus schedule not found" };
 
-                seat.Status = "Booked";
-                await _seatRepo.UpdateSeatAsync(seat);
+
+                foreach (var seatNum in input.SeatNumbers)
+                {
+                    var seat = schedule.Seats.FirstOrDefault(s => s.SeatNumber == seatNum);
+                    if (seat == null || seat.Status != "Available")
+                        return new BookSeatResultDto
+                        {
+                            Success = false,
+                            Message = $"Seat {seatNum} is not available"
+                        };
+
+                    seat.Status = "Booked";
+                
+                }
+
+                //  Create Passenger
+                var passenger = new Passenger
+                {
+                    Id = Guid.NewGuid(),
+                    Name = input.PassengerName,
+                    MobileNumber = input.PassengerMobile
+                };
+                await _passengerRepo.AddPassengerAsync(passenger);
+
+                // Create Ticket linked with Passenger
+                var ticket = new Ticket
+                {
+                    Id = Guid.NewGuid(),
+                    BusScheduleId = schedule.Id,
+                    PassengerId = passenger.Id,
+                    SeatNumber = string.Join(",", input.SeatNumbers),
+                    BoardingPoint = input.BoardingPoint,
+                    DroppingPoint = input.DroppingPoint,
+                    Status = "Booked"
+                };
+
+                await _ticketRepo.AddTicketAsync(ticket);
+                await _unitOfWork.CommitTransactionAsync();
+                return new BookSeatResultDto
+                {
+                    Success = true,
+                    Message = "Booking successful!",
+                    TicketId = ticket.Id
+                };
+              
             }
-
-            // ✅ Create Passenger
-            var passenger = new Passenger
+            catch(Exception ex)
             {
-                Id = Guid.NewGuid(),
-                Name = input.PassengerName,
-                MobileNumber = input.PassengerMobile
-            };
-            await _passengerRepo.AddPassengerAsync(passenger);
-
-            // ✅ Create Ticket linked with Passenger
-            var ticket = new Ticket
-            {
-                Id = Guid.NewGuid(),
-                BusScheduleId = schedule.Id,
-                PassengerId = passenger.Id,
-                SeatNumber = string.Join(",", input.SeatNumbers),
-                BoardingPoint = input.BoardingPoint,
-                DroppingPoint = input.DroppingPoint,
-                Status = "Booked"
-            };
-
-            await _ticketRepo.AddTicketAsync(ticket);
-
-            return new BookSeatResultDto
-            {
-                Success = true,
-                Message = "Booking successful!",
-                TicketId = ticket.Id
-            };
+                await _unitOfWork.RollbackTransactionAsync();
+                return new BookSeatResultDto
+                {
+                    Success = false,
+                    Message = ex.Message
+                };
+            }
         }
     }
 }
