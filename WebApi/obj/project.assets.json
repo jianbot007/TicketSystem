@@ -2910,11 +2910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TicketSystem\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\Dot net core projects\\TicketSystem\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\TicketSystem\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\Dot net core projects\\TicketSystem\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\TicketSystem\\WebApi\\obj\\",
+      "outputPath": "D:\\Dot net core projects\\TicketSystem\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2935,11 +2935,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\TicketSystem\\Application\\Application.csproj": {
-              "projectPath": "D:\\TicketSystem\\Application\\Application.csproj"
+            "D:\\Dot net core projects\\TicketSystem\\Application\\Application.csproj": {
+              "projectPath": "D:\\Dot net core projects\\TicketSystem\\Application\\Application.csproj"
             },
-            "D:\\TicketSystem\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\TicketSystem\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Dot net core projects\\TicketSystem\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Dot net core projects\\TicketSystem\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

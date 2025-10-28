@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Itt4bWtMX4I=",
+  "dgSpecHash": "+RUfVu42bpo=",
   "success": true,
-  "projectFilePath": "D:\\TicketSystem\\Test\\Test\\Application.Test.csproj",
+  "projectFilePath": "D:\\Dot net core projects\\TicketSystem\\Test\\Test\\Application.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",

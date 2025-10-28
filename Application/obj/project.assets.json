@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TicketSystem\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Dot net core projects\\TicketSystem\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\TicketSystem\\Application\\Application.csproj",
+      "projectPath": "D:\\Dot net core projects\\TicketSystem\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\TicketSystem\\Application\\obj\\",
+      "outputPath": "D:\\Dot net core projects\\TicketSystem\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\TicketSystem\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\TicketSystem\\Domain\\Domain.csproj"
+            "D:\\Dot net core projects\\TicketSystem\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Dot net core projects\\TicketSystem\\Domain\\Domain.csproj"
             }
           }
         }

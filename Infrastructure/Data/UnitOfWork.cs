@@ -4,7 +4,7 @@ using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
 
-namespace Infrastructure.Persistence
+namespace Infrastructure.Data
 {
     public class UnitOfWork : IUnitOfWork
     {

@@ -36,3 +36,23 @@ D:\TicketSystem\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 D:\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 D:\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
 D:\TicketSystem\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Dot net core projects\TicketSystem\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Dot net core projects\TicketSystem\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Dot net core projects\TicketSystem\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Dot net core projects\TicketSystem\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Dot net core projects\TicketSystem\Infrastructure\bin\Debug\net9.0\Application.dll
+D:\Dot net core projects\TicketSystem\Infrastructure\bin\Debug\net9.0\Domain.dll
+D:\Dot net core projects\TicketSystem\Infrastructure\bin\Debug\net9.0\Application.pdb
+D:\Dot net core projects\TicketSystem\Infrastructure\bin\Debug\net9.0\Domain.pdb
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Dot net core projects\TicketSystem\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
