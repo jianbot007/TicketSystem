@@ -78,10 +78,6 @@ namespace Application.Tests.Services
             }
         }
 
-        #endregion
-
-        #region BookSeatAsync Tests
-
         [Fact]
         public async Task BookSeatAsync_WithValidInput_ReturnsSuccess()
         {
