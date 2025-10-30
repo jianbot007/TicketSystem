@@ -35,18 +35,5 @@ namespace Infrastructure.Repositories
                             s.JourneyDate.Date == journeyDate.Date)
                 .ToListAsync();
         }
-
-    
-        public async Task<List<BusSchedule>> SearchBusesAsync(string from, string to, DateTime journeyDate)
-        {
-            return await _context.BusSchedules
-                .Include(s => s.Bus)
-                .Include(s => s.Route)
-                .Include(s => s.Seats)
-                .Where(s => s.Route.FromCity.ToLower() == from.ToLower() &&
-                            s.Route.ToCity.ToLower() == to.ToLower() &&
-                            s.JourneyDate.Date == journeyDate.Date)
-                .ToListAsync();
-        }
     }
 }

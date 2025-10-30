@@ -21,7 +21,7 @@ namespace Domain.Entities
         public string BoardingPoint { get; set; }
         public string DroppingPoint { get; set; }
 
-        public string Status { get; set; } // "Booked", "Confirmed", "Cancelled"
+        public string Status { get; set; } // "Booked", "Confirmed"
     }
 }
 

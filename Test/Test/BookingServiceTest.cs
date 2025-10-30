@@ -147,7 +147,7 @@ namespace Application.Tests.Services
             var bookingInput = new BookSeatInputDto
             {
                 BusScheduleId = scheduleId,
-                SeatNumbers = ["A2"], // A2 is already Booked
+                SeatNumbers = ["A2"], 
                 PassengerName = "John Doe",
                 PassengerMobile = "01711111111",
                 BoardingPoint = "Dhaka",

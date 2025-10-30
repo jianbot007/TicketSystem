@@ -168,7 +168,7 @@ namespace Application.Tests.Services
                 Seats =
                 [
                     new Seat { SeatNumber = "A1", Status = "Booked" },
-                    new Seat { SeatNumber = "A2", Status = "Sold" }
+                    new Seat { SeatNumber = "A2", Status = "Booked" }
                 ]
             };
 

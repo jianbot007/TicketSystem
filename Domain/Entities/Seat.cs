@@ -12,10 +12,10 @@ using System.Threading.Tasks;
         {
             public Guid Id { get; set; }
             public string SeatNumber { get; set; }
-            public string Status { get; set; } // "Available", "Booked", "Sold"
+            public string Status { get; set; } // "Available", "Booked"
 
             public Guid BusScheduleId { get; set; } // foreign key
-            public BusSchedule BusSchedule { get; set; } // navigation property
+            public BusSchedule BusSchedule { get; set; } 
         }
     }
 

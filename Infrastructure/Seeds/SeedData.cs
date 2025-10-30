@@ -9,7 +9,7 @@ namespace Infrastructure.Seed
         public static async Task InitializeAsync(AppDbContext context)
         {
             if (await context.Buses.AnyAsync())
-                return; // Already seeded
+                return;
 
             var buses = new List<Bus>();
             var routes = new List<Route>();
@@ -55,7 +55,7 @@ namespace Infrastructure.Seed
                     Id = Guid.NewGuid(),
                     Bus = buses[i],
                     Route = routes[i],
-                    // Only date, no time
+                  
                     JourneyDate = DateTime.UtcNow.Date.AddDays(random.Next(0, 10)),
                     StartTime = $"{random.Next(5, 22):D2}:00",
                     ArrivalTime = $"{random.Next(5, 22):D2}:00",
@@ -66,7 +66,7 @@ namespace Infrastructure.Seed
 
             await context.BusSchedules.AddRangeAsync(schedules);
 
-            // --- Generate Seats for each Schedule (40 seats each) ---
+          
             foreach (var schedule in schedules)
             {
                 schedule.Seats = new List<Seat>();
